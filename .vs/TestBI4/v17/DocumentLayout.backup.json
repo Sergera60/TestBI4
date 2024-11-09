@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\moham\\OneDrive\\Bureau\\TestBI4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89A7BD4B-DA32-4687-801E-8ABBC4A137C0}|TestInfrastructure\\TestInfrastructure.csproj|c:\\users\\moham\\onedrive\\bureau\\testbi4\\testinfrastructure\\testcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89A7BD4B-DA32-4687-801E-8ABBC4A137C0}|TestInfrastructure\\TestInfrastructure.csproj|solutionrelative:testinfrastructure\\testcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37EF633F-0D67-4521-9CCD-E2C37E8BC0F0}|TestConsloe\\TestConsloe.csproj|c:\\users\\moham\\onedrive\\bureau\\testbi4\\testconsloe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37EF633F-0D67-4521-9CCD-E2C37E8BC0F0}|TestConsloe\\TestConsloe.csproj|solutionrelative:testconsloe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DEA18C8-DE3D-4A0D-8A03-C572B7BA416E}|testCore\\testCore.csproj|c:\\users\\moham\\onedrive\\bureau\\testbi4\\testcore\\testcore.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{7DEA18C8-DE3D-4A0D-8A03-C572B7BA416E}|testCore\\testCore.csproj|solutionrelative:testcore\\testcore.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Bureau\\TestBI4\\TestConsloe\\Program.cs",
+              "RelativeDocumentMoniker": "TestConsloe\\Program.cs",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Bureau\\TestBI4\\TestConsloe\\Program.cs",
+              "RelativeToolTip": "TestConsloe\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T20:40:25.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestContext.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Bureau\\TestBI4\\TestInfrastructure\\TestContext.cs",
+              "RelativeDocumentMoniker": "TestInfrastructure\\TestContext.cs",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Bureau\\TestBI4\\TestInfrastructure\\TestContext.cs",
+              "RelativeToolTip": "TestInfrastructure\\TestContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T20:39:32.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "testCore",
+              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Bureau\\TestBI4\\testCore\\testCore.csproj",
+              "RelativeDocumentMoniker": "testCore\\testCore.csproj",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Bureau\\TestBI4\\testCore\\testCore.csproj",
+              "RelativeToolTip": "testCore\\testCore.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-09T20:37:52.747Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
